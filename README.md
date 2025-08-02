@@ -36,4 +36,5 @@ A Node.js-based application designed to simplify and automate school administrat
 [![app](https://img.shields.io/badge/Licenes-MIT-blue)](https://getbootstrap.com)
 ### 🚀 Installation
 Clone the project and install dependencies:
+
 ``` git clone https://github.com/your-username/school-management-system.git```
