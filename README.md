@@ -71,3 +71,29 @@ http://localhost:3000/api
 | PUT    | /api/students/:id | Login to system |    
 | POST   |	/api/students	| Login to system |
 | DELETE | /api/tudents/:id | Login to system |  
+### 🔑 Environment Variables
+Create a .env file in the root directory and add:
+
+```
+PORT=3000
+DB_URI=your_database_connection_string
+JWT_SECRET=your_jwt_secret_key
+```
+### 🧪 Scripts
+```
+npm start       # Start the server
+npm run dev     # Start with nodemon
+npm test        # Run test cases
+```
+### 👥 Contributors
+![@radytrainer](https://contrib.rocks/image?repo=samartluch/project-samart)
+### 📄 License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+```bash
+---
+
+Let me know:
+- if your project uses MongoDB or MySQL (so I can adjust that part),
+- if you want to include screenshots or setup diagrams,
+- or if you'd like this saved as a downloadable `.md` file.
+```
