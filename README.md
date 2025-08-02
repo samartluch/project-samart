@@ -40,3 +40,26 @@ Clone the project and install dependencies:
 ``` 
 git clone https://github.com/your-username/school-management-system.git
 ```
+```
+cd school-management-system
+```
+```
+npm install
+```
+### Screenshot
+![alt text](image.png)
+### 🔧 Usage
+To run the server in development mode:
+
+```
+npm run dev
+```
+To start the server normally:
+
+```
+npm start
+```
+Access the API at
+```
+http://localhost:3000/api
+```
