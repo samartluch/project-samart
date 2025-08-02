@@ -22,4 +22,18 @@ A Node.js-based application designed to simplify and automate school administrat
 - User Authentication (JWT)
 - Admin Dashboard
 ### 🛠 Tech Stack
-- Programming Language: JavaScript (Node.js)
+- **Programming Language**: JavaScript (Node.js)
+- **Runtime**: Node.js
+- **Framework**: Express.js
+- **Database**: MongoDB / Mongoose (or MySQL / Sequelize)
+- **Authentication**: JSON Web Token (JWT)
+- **Environment Management**: dotenv
+- **Testing**: Jest / Mocha (optional)
+
+[![app](https://img.shields.io/badge/Node.js-18.x-Green)](https://getbootstrap.com)
+[![app](https://img.shields.io/badge/Express.js-Framwprk-blue)](https://getbootstrap.com)
+[![app](https://img.shields.io/badge/MongoDB-Database-Green)](https://getbootstrap.com)
+[![app](https://img.shields.io/badge/Licenes-MIT-blue)](https://getbootstrap.com)
+### 🚀 Installation
+Clone the project and install dependencies:
+``` git clone https://github.com/your-username/school-management-system.git```
