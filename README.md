@@ -63,3 +63,11 @@ Access the API at
 ```
 http://localhost:3000/api
 ```
+### 📮 API Endpoints
+| Method | Endpoint        | Description     | 
+|--------| --------        | ------------    | 
+| POST   | /api/auth/login | Login to system |
+| GIT    | /api/students   | Login to system | 
+| PUT    | /api/students/:id | Login to system |    
+| POST   |	/api/students	| Login to system |
+| DELETE | /api/tudents/:id | Login to system |  
